@@ -1,4 +1,4 @@
-package aula28_07.exercicio1;
+package poo1.aula28_07.exercicio1;
 
 public class ContaBancaria {
 

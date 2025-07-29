@@ -1,4 +1,4 @@
-package aula28_07.exercicio2;
+package poo1.aula28_07.exercicio2;
 
 public class MainExc2 {
     public static void main(String[] args) {
