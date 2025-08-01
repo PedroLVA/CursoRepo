@@ -1,5 +1,5 @@
 
-# Repositório de Códigos e Exercícios do Curso de [Nome do Curso]
+# Repositório de Códigos e Exercícios do Curso
 
 Bem-vindo\! Este repositório contém todas as minhas soluções para os exercícios, projetos e desafios propostos.
 
